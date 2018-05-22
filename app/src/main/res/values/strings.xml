@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birthday App 2</string>
+    <string name="surprise_me">Surprise Me!</string>
+    <string name="temp_text">Temp Text</string>
+</resources>
